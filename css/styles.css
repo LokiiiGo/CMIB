@@ -240,6 +240,13 @@ body {
   font-size: 1.5rem;
 }
 
+.course-image {
+  width: 100%;
+  height: auto;
+  border-radius: 10px;
+  margin-bottom: 1rem;
+}
+
 .course-card h3 {
   font-size: 1.5rem;
   font-weight: 600;
